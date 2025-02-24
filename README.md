@@ -83,3 +83,7 @@ pip install numpy PyQt5 matplotlib
 
 ### Learning Progress Plot
 ![Learning Progress Plot](screenshots/plot.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
