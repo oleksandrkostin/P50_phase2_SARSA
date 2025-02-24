@@ -27,8 +27,8 @@ pip install numpy PyQt5 matplotlib
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sarsa-learning-visualization.git
-   cd sarsa-learning-visualization](https://github.com/oleksandrkostin/P50_phase2_SARSA.git
+   git clone https://github.com/oleksandrkostin/P50_phase2_SARSA.git
+   cd P50_phase2_SARSA
    ```
 
 2. **Run the Program**:
